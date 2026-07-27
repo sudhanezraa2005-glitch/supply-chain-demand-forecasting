@@ -1,0 +1,11 @@
+# Add Python package dependencies here
+pandas
+numpy
+scikit-learn
+matplotlib
+jupyter
+seaborn
+
+# For production/web
+fastapi
+uvicorn
